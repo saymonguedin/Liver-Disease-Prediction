@@ -1,2 +1,2 @@
-# Prediction and analysis of liver patient data using ml
+Prediction of liver disease with given patient data paremeters related to liver and its functioning
  
